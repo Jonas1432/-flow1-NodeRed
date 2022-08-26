@@ -2,42 +2,47 @@
 
 Este repositorio es para el primer ejercicio de NodeRed para el curso Internet de las Cosas Código IOT del grupo 11.
 
-# Introducción 
+## Introducción 
 
 Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y automatizarlo para que genere un TimeStamp cada 1 segundo, esta funcion se realiza mediante la pestaña Debug.
 
-#Material para la actividad
+## Material para la actividad
 
 Para lo siguiente se utilizo...
-* Ubuntu 22.04
-* NodeJs | sudo apt-get install -y nodejs
-* NPM
-* NodeRed - Nodos Dashboard
+- [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)
+- [NodeJS](https://nodejs.org/es/)
+    - [NPM](https://www.npmjs.com/)
+    - [NodeRed](https://nodered.org/docs/getting-started/local)
+    - [Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
+
 sudo apt-get install -y build-essential
 sudo npm install -g --unsafe-perm node-red
 
 
-#Referencias 
+# Referencias 
 
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com 
 
-#||Instrucciones de preparación del entorno||
+## ||Instrucciones de preparación del entorno||
 Para ejecutar este flow, es necesario lo siguiente
 
-Arrancar NodeRed con el comando node-red 
-despues ejecutas localhost:1880
-Importar el flow
-Hacer clic en el boton Deploy
-Instrucciones de operación
-Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
+1. Arrancar NodeRed con el comando node-red 
+2. despues ejecutas localhost:1880
+3. Importar el flow
+4. Hacer clic en el boton Deploy
+5. Instrucciones de operación
+6. Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
 
-#Resultado
+# Resultado
 
 Como se muestra en la imagen agregada.
 
-#Créditos
+![](https://github.com/Jonas1432/-flow1-NodeRed/blob/main/Flow-1.png)
 
-Desarrollado por Jonathan Araujo
+# Créditos
+
+* Desarrollado por Jonathan Araujo
+* https://github.com/Jonas1432
 
 
 
